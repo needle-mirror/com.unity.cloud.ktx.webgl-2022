@@ -1,19 +1,19 @@
 {
   "name": "com.unity.cloud.ktx.webgl-2022",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "KTX for Unity WebGL 2022",
   "description": "Provides the KTX for Unity package with WebGL native libraries for Unity versions 2022.2 to 2023.1",
   "unity": "2022.2",
   "_upm": {
-    "changelog": "## Changed\n- Version bump to go out of experimental."
+    "changelog": "### Fixed\n- Fixed console warning about missing main package when the main package is installed as an indirect dependency."
   },
   "upmCi": {
-    "footprint": "a9d88c89f6deabd9018e765c459e61e88a6c22c7"
+    "footprint": "4bf5d2654804a2573ad60b23e2d56059ab7dc82c"
   },
   "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.cloud.ktx.webgl-2022@1.0/manual/index.html",
   "repository": {
     "url": "https://github.cds.internal.unity3d.com/unity/com.unity.cloud.ktx-plugin.git",
     "type": "git",
-    "revision": "a248c8b159a8543b5267673577a6f84aee515b06"
+    "revision": "4b2d037ea3131d745b7b466ac194f0e1f2e22dc7"
   }
 }
